@@ -4,3 +4,5 @@
 #### This is an `<h4>` header
 ##### This is an `<h5>` header
 ###### This is an `<h6>` header
+
+<img alt="Image of Yaktocat" src=https://octodex.github.com/images/yaktocat.png width=400>
